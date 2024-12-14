@@ -17,7 +17,7 @@ It first generates a `Uint8Array` (byte array) of 16 bytes (setting up the IV)
 
 Then it fills those with random values (filling up the IV)
 
-Then, it uses the key & the iv to encrypt the payload via `AES-GCM` 
+Then, it uses the key & the iv to encrypt the payload via `AES-CBC` 
 
 The IV & encrypted events are ut into base64 and seperated by a period (`.`)
 
