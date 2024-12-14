@@ -36,4 +36,5 @@ Run `blob.py` it will print out the encrypted result :)
 If you need help or want a full reverse (with key and stuff) you can contact me on telgram or discord
 
 `Telegram` -> `@CSolverV2` | https://t.me/csolver
+
 `Discord` -> `CSolver.ai` | https://discord.gg/CBr7taaYeh
