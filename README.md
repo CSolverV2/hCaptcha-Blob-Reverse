@@ -1,6 +1,9 @@
 # hCaptcha-Blob-Reverse
 Not a full reverse, but a dynamic sandbox to encrypt hCaptcha's events into the `fingerprint_blob` value
 
+# Updates
+- `v1.1` -> `Added a bypass for hCaptcha's anti-debug (this was causing it to encrypt wrong before)`
+
 # `fingerprint_blob`
 
 The `fingerprint_blob` is an encrypted array of `events` which are identifying information about a user
